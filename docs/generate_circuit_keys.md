@@ -16,7 +16,7 @@ Clone the repository to your machine
 
 Key generation requires the same [dependencies](../docs/setup-dev.md) as our server.
 
-## 4. Generating keys
+## 3. Generating keys
 
 ```bash
 zk
